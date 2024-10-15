@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bookmyshow-clone.git
+git clone https://github.com/SarathiU11/guvi-learnthon-session2-day1.git
 Navigate to the project directory:
 
 bash
