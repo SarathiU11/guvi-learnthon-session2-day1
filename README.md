@@ -38,5 +38,4 @@ Enhance the search functionality with filters (e.g., genre, date).
 Contribution
 Contributions are welcome! If you have suggestions or improvements, please feel free to create a pull request or open an issue.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
